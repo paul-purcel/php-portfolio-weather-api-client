@@ -1,0 +1,17 @@
+{
+    "name": "paul/php-portfolio-weather-api-client",
+    "description": "Sample portfolio weather API client",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul P",
+            "email": "paul@paul-resume.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"Paul\\": "src/"}
+    }
+}
